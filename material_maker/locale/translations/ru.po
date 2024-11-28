@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: rodzilla@free.fr\n"
 "POT-Creation-Date: 2022-06-26 07:49\n"
-"PO-Revision-Date: 2024-11-26 18:14+0300\n"
+"PO-Revision-Date: 2024-11-28 23:06+0300\n"
 "Last-Translator: Lydex <goodgamermatvey@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -25,12 +25,12 @@ msgstr "Material Maker"
 
 #: res:///start.tscn:113
 msgid "Powered by"
-msgstr ""
+msgstr "На базе"
 
 #: Menu in res:///material_maker/main_window.gd
 #: res:///material_maker/main_window.tscn:142
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "New material"
@@ -38,7 +38,7 @@ msgstr "Новый материал"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "New paint project"
-msgstr ""
+msgstr "Новый покрасочный проект"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Load"
@@ -50,7 +50,7 @@ msgstr "Загрузить материал с сайта"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Load recent"
-msgstr ""
+msgstr "Загрузить последние"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Save"
@@ -80,15 +80,15 @@ msgstr "Выйти"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Edit"
-msgstr "Редактировать"
+msgstr "Правка"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Undo"
-msgstr ""
+msgstr "Отменить"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Redo"
-msgstr ""
+msgstr "Повторить"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Cut"
@@ -108,11 +108,11 @@ msgstr "Дублировать"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Select All"
-msgstr "Выбрать всё"
+msgstr "Выделить всё"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Select None"
-msgstr ""
+msgstr "Снять выделение"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Invert Selection"
@@ -120,87 +120,87 @@ msgstr "Инвертировать выделение"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Select Sources"
-msgstr ""
+msgstr "Выбрать источники"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Select Targets"
-msgstr ""
+msgstr "Выбрать цели"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Load Selection"
-msgstr ""
+msgstr "Загрузить выделение"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Save Selection"
-msgstr ""
+msgstr "Сохранить выделение"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Set theme"
-msgstr ""
+msgstr "Выбрать тему"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Preferences"
-msgstr ""
+msgstr "Настройки"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "View"
-msgstr ""
+msgstr "Просмотр"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Center view"
-msgstr ""
+msgstr "Центрировать вид"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Reset zoom"
-msgstr ""
+msgstr "Сбросить масштабирование"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Show or Hide side panels"
-msgstr ""
+msgstr "Показать или скрыть боковые панели"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Panels"
-msgstr ""
+msgstr "Панели"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Tools"
-msgstr ""
+msgstr "Инструменты"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Create"
-msgstr ""
+msgstr "Создать"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Create group"
-msgstr ""
+msgstr "Создать группу"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Make selected nodes editable"
-msgstr ""
+msgstr "Сделать выбранные узлы редактируемыми"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Add selected node to library"
-msgstr ""
+msgstr "Добавить выделенный узел в библиотеку"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Add current brush to library"
-msgstr ""
+msgstr "Добавить текущую кисть в библиотеку"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Create a screenshot of the current graph"
-msgstr ""
+msgstr "Сделать скриншот текущего графа"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Paint project settings"
-msgstr ""
+msgstr "Настройки покрасочного проекта"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Set painting environment"
-msgstr ""
+msgstr "Выбрать покрасочную среду"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Environment editor"
-msgstr ""
+msgstr "Редактор окружения"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Help"
@@ -212,11 +212,11 @@ msgstr "Справка"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Show selected library item documentation"
-msgstr ""
+msgstr "Показать документацию по выбранному элементу библиотеки"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "Report a bug"
-msgstr "Сообщить обо ошибке"
+msgstr "Сообщить об ошибке"
 
 #: Menu in res:///material_maker/main_window.gd
 msgid "About"
@@ -224,110 +224,110 @@ msgstr "О программе"
 
 #: res:///material_maker/main_window.tscn:367
 msgid "Undo/Redo action added"
-msgstr ""
+msgstr "Добавлены действия отмены/повтора"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:10
 msgid "Library"
-msgstr ""
+msgstr "Библиотека"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:11
 msgid "Preview2D"
-msgstr ""
+msgstr "Предпросмотр2D"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:12
 msgid "Preview3D"
-msgstr ""
+msgstr "Предпросмотр3D"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:13
 msgid "Preview2D (2)"
-msgstr ""
+msgstr "Предпросмотр2D (2)"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:14
 msgid "Histogram"
-msgstr ""
+msgstr "Гистограмма"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:15
 msgid "Hierarchy"
-msgstr ""
+msgstr "Иерархия"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:16
 msgid "Reference"
-msgstr ""
+msgstr "Образец"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:17
 msgid "Brushes"
-msgstr ""
+msgstr "Кисти"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:18
 msgid "Layers"
-msgstr ""
+msgstr "Слои"
 
 #: Panel name in res:///material_maker/main_window_layout.gd:19
 msgid "Parameters"
-msgstr ""
+msgstr "Параметры"
 
 #: res:///material_maker/nodes/base.gd:97
 msgid "Output"
-msgstr ""
+msgstr "Вывод"
 
 #: res:///material_maker/nodes/base.gd:154
 msgid "Unlock seed"
-msgstr ""
+msgstr "Разблокировать сид"
 
 #: res:///material_maker/nodes/base.gd:154
 msgid "Lock seed"
-msgstr ""
+msgstr "Заблокировать сид"
 
 #: res:///material_maker/nodes/base.gd:156
 msgid "Copy seed"
-msgstr ""
+msgstr "Скопировать сид"
 
 #: res:///material_maker/nodes/base.gd:158
 msgid "Paste seed"
-msgstr ""
+msgstr "Вставить сид"
 
 #: res:///material_maker/nodes/base.gd:171
 msgid "Propagate changes"
-msgstr ""
+msgstr "Распространить изменения"
 
 #: res:///material_maker/nodes/base.gd:196
 msgid "Change seed (left mouse button) / Show seed menu (right mouse button)"
-msgstr ""
+msgstr "Изменить сид (левая кнопка мыши) / Показать меню сида (правая кнопка мыши)"
 
 #: res:///material_maker/nodes/debug/debug.tscn:26
 msgid "Show shader"
-msgstr ""
+msgstr "Показать шейдер"
 
 #: res:///material_maker/nodes/debug/debug_popup.tscn:43
 msgid "Shadertoy"
-msgstr ""
+msgstr "Shadertoy"
 
 #: res:///material_maker/nodes/debug/debug_popup.tscn:51
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Копировать в буфер обмена"
 
 #: res:///material_maker/nodes/ios/port.tscn:67
 #: res:///material_maker/windows/node_editor/input.tscn:79
 #: res:///material_maker/windows/node_editor/output.tscn:71
 msgid "Greyscale"
-msgstr ""
+msgstr "Greyscale"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:38
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:17
 #: res:///material_maker/windows/node_editor/parameter_size.tscn:18
 msgid "Min:"
-msgstr ""
+msgstr "Минимально:"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:59
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:37
 #: res:///material_maker/windows/node_editor/parameter_size.tscn:34
 msgid "Max:"
-msgstr ""
+msgstr "Максимально:"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:80
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:57
 msgid "Step:"
-msgstr ""
+msgstr "Этап:"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:100
 #: res:///material_maker/windows/node_editor/parameter_curve.tscn:18
@@ -337,7 +337,7 @@ msgstr ""
 #: res:///material_maker/windows/node_editor/parameter_polyline.tscn:18
 #: res:///material_maker/windows/node_editor/parameter_size.tscn:50
 msgid "Default:"
-msgstr ""
+msgstr "По умолчанию:"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:129
 #: res:///material_maker/panels/library/create_lib_dialog.tscn:77
@@ -355,7 +355,7 @@ msgstr ""
 #: res:///material_maker/windows/preferences/preferences.tscn:431
 #: res:///material_maker/windows/sdf_builder/sdf_builder.tscn:114
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 #: res:///material_maker/nodes/remote/named_parameter_dialog.tscn:136
 #: res:///material_maker/panels/library/create_lib_dialog.tscn:84
@@ -373,162 +373,162 @@ msgstr ""
 #: res:///material_maker/windows/preferences/preferences.tscn:438
 #: res:///material_maker/windows/sdf_builder/sdf_builder.tscn:121
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: res:///material_maker/nodes/remote/remote.tscn:74
 msgid "ab"
-msgstr ""
+msgstr "ab"
 
 #: res:///material_maker/nodes/tones/tones.tscn:61
 msgid "Luminance"
-msgstr ""
+msgstr "Яркость"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:29
 msgid "Albedo alpha:"
-msgstr ""
+msgstr "Альфа-канал альбедо:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:45
 msgid "Metallic alpha:"
-msgstr ""
+msgstr "Альфа-канал металличности:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:62
 msgid "Roughness alpha:"
-msgstr ""
+msgstr "Альфа-канал шероховатости:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:79
 msgid "Emission alpha:"
-msgstr ""
+msgstr "Альфа-канал свечения:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:96
 msgid "Normal map alpha:"
-msgstr ""
+msgstr "Альфа-канал карты нормалей:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:113
 msgid "Depth alpha:"
-msgstr ""
+msgstr "Альфа-канал глубины:"
 
 #: res:///material_maker/panels/layers/layer_config_popup.tscn:130
 msgid "Occlusion alpha:"
-msgstr ""
+msgstr "Альфа-канал окклюзии:"
 
 #: res:///material_maker/panels/layers/layer_tooltip.tscn:28
 msgid "Layer name"
-msgstr ""
+msgstr "Название слоя"
 
 #: res:///material_maker/panels/layers/layer_tooltip_thumbnail.tscn:30
 msgid "albedo"
-msgstr ""
+msgstr "альбедо"
 
 #: res:///material_maker/panels/library/create_lib_dialog.tscn:37
 msgid "Library name:"
-msgstr ""
+msgstr "Имя библиотеки:"
 
 #: res:///material_maker/panels/library/create_lib_dialog.tscn:53
 msgid "Library file:"
-msgstr ""
+msgstr "Файл библиотеки:"
 
 #: res:///material_maker/panels/library/create_lib_dialog.tscn:62
 msgid "Click to enter a path"
-msgstr ""
+msgstr "Нажмите, чтобы ввести путь"
 
 #: res:///material_maker/panels/library/library.tscn:31
 msgid "Manage Libraries"
-msgstr ""
+msgstr "Управление библиотеками"
 
 #: res:///material_maker/panels/library/library.tscn:52
 #: res:///material_maker/windows/load_from_website/load_from_website.tscn:34
 msgid "Filter:"
-msgstr ""
+msgstr "Фильтр:"
 
 #: res:///material_maker/panels/paint/paint.tscn:392
 msgid "Brush"
-msgstr ""
+msgstr "Кисть"
 
 #: res:///material_maker/panels/paint/paint.tscn:405
 msgid "Jitter"
-msgstr ""
+msgstr "Дрожание"
 
 #: res:///material_maker/panels/paint/paint.tscn:432
 #: res:///material_maker/panels/paint/paint.tscn:539
 msgid "Size"
-msgstr ""
+msgstr "Разрешение"
 
 #: res:///material_maker/panels/paint/paint.tscn:451
 #: res:///material_maker/panels/paint/paint.tscn:618
 msgid "Spacing"
-msgstr ""
+msgstr "Интервал"
 
 #: res:///material_maker/panels/paint/paint.tscn:472
 #: res:///material_maker/panels/paint/paint.tscn:577
 msgid "Opacity"
-msgstr ""
+msgstr "Непрозрачность"
 
 #: res:///material_maker/panels/paint/paint.tscn:491
 #: res:///material_maker/panels/paint/paint.tscn:597
 msgid "Hardness"
-msgstr ""
+msgstr "Твёрдость"
 
 #: res:///material_maker/panels/paint/paint.tscn:520
 msgid "Position"
-msgstr ""
+msgstr "Позиция"
 
 #: res:///material_maker/panels/paint/paint.tscn:558
 msgid "Angle"
-msgstr ""
+msgstr "Угол"
 
 #: res:///material_maker/panels/paint/paint.tscn:668
 #: res:///material_maker/panels/paint/paint.tscn:695
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:98
 msgid "None"
-msgstr ""
+msgstr "Отсутствует"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:450
 msgid "Albedo"
-msgstr ""
+msgstr "Альбедо"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:451
 msgid "Metallic"
-msgstr ""
+msgstr "Металличность"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:452
 msgid "Roughness"
-msgstr ""
+msgstr "Шероховатость"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:453
 msgid "Emission"
-msgstr ""
+msgstr "Излучение"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:454
 msgid "Normal map"
-msgstr ""
+msgstr "Карта нормалей"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:455
 msgid "Depth"
-msgstr ""
+msgstr "Глубина"
 
 #: res:///material_maker/panels/paint/paint_layers.gd:456
 msgid "Occlusion"
-msgstr ""
+msgstr "Окклюзия"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:47
 msgid "Texture size:"
-msgstr ""
+msgstr "Размер текстуры:"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:62
 msgid "Paint Emission"
-msgstr ""
+msgstr "Покраска излучения"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:69
 msgid "Paint Normal"
-msgstr ""
+msgstr "Покраска нормали"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:76
 msgid "Paint Depth"
-msgstr ""
+msgstr "Покраска глубины"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:86
 msgid "Normals from depth"
-msgstr ""
+msgstr "Нормали по глубине"
 
 #: res:///material_maker/panels/paint/paint_project_settings.tscn:114
 #: res:///material_maker/widgets/float_edit/expression_editor.tscn:63
@@ -536,162 +536,162 @@ msgstr ""
 #: res:///material_maker/windows/preferences/preferences.tscn:424
 #: res:///material_maker/windows/sdf_builder/sdf_builder.tscn:107
 msgid "Apply"
-msgstr ""
+msgstr "Применение"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:91
 msgid "ID Map:"
-msgstr ""
+msgstr "ID Map:"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:97
 msgid "ID Map file"
-msgstr ""
+msgstr "Файл ID Map"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:104
 msgid "Show ID Map"
-msgstr ""
+msgstr "Показать ID Map"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:111
 msgid "Show Mask"
-msgstr ""
+msgstr "Показать маску"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:118
 msgid "Show Mix"
-msgstr ""
+msgstr "Показать смешивание"
 
 #: res:///material_maker/panels/paint/select_mask_dialog.tscn:124
 msgid "Reset Mask"
-msgstr ""
+msgstr "Сбросить маску"
 
 #: res:///material_maker/panels/preview_3d/mesh_config_popup.tscn:35
 msgid "Mesh configuration"
-msgstr ""
+msgstr "Конфигурация сетки"
 
 #: res:///material_maker/panels/preview_3d/mesh_config_popup.tscn:54
 msgid "UV Scale:"
-msgstr ""
+msgstr "Масштаб UV:"
 
 #: res:///material_maker/panels/preview_3d/mesh_config_popup.tscn:85
 msgid "Tesselated"
-msgstr ""
+msgstr "Тесселированный"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res:///material_maker/panels/preview_3d/preview_3d_ui.tscn:26
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Select"
-msgstr ""
+msgstr "Выделение"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Configure"
-msgstr ""
+msgstr "Настроить"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Rotate"
-msgstr ""
+msgstr "Вращение"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Off"
-msgstr ""
+msgstr "Выключить"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Slow"
-msgstr ""
+msgstr "Медленно"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Medium"
-msgstr ""
+msgstr "Средне"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Fast"
-msgstr ""
+msgstr "Быстро"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Generate map"
-msgstr ""
+msgstr "Сгенерировать карту"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Mesh normal"
-msgstr ""
+msgstr "Сетка нормалей"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Inverse UV"
-msgstr ""
+msgstr "Обратный UV"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Curvature"
-msgstr ""
+msgstr "Кривизна"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Ambient Occlusion"
-msgstr ""
+msgstr "АО"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Thickness"
-msgstr ""
+msgstr "Толщина"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res:///material_maker/panels/preview_3d/preview_3d_ui.tscn:33
 msgid "Environment"
-msgstr ""
+msgstr "Среда"
 
 #: res:///material_maker/panels/preview_3d/thumbnails/generation/gen_thumbs_meshes.tscn:77
 msgid "Custom"
-msgstr ""
+msgstr "Пользоавтельский"
 
 #: res:///material_maker/tools/painter/painter.gd:444
 msgid "View to texture"
-msgstr ""
+msgstr "Вид на текстуру"
 
 #: res:///material_maker/tools/painter/painter.gd:445
 msgid "Texture to view"
-msgstr ""
+msgstr "С текстуры на вид"
 
 #: res:///material_maker/tools/painter/painter.gd:446
 msgid "Seams"
-msgstr ""
+msgstr "Швы"
 
 #: res:///material_maker/tools/painter/painter.gd:447
 msgid "Albedo (current layer)"
-msgstr ""
+msgstr "Альбедо (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:448
 msgid "Metallic/Roughness (current layer)"
-msgstr ""
+msgstr "Металличность/Шероховатость (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:449
 msgid "Emission (current layer)"
-msgstr ""
+msgstr "Излучение (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:450
 msgid "Normal (current layer)"
-msgstr ""
+msgstr "Нормали (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:451
 msgid "Depth/Occlusion (current layer)"
-msgstr ""
+msgstr "Глубина/Окклюзия (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:452
 msgid "Mask (current layer)"
-msgstr ""
+msgstr "Маска (текущий слой)"
 
 #: res:///material_maker/widgets/curve_edit/curve_dialog.tscn:67
 msgid "Presets"
-msgstr ""
+msgstr "Предустановки"
 
 #: res:///material_maker/widgets/curve_edit/curve_dialog.tscn:77
 msgid "Invert"
-msgstr ""
+msgstr "Инвертирование"
 
 #: res:///material_maker/widgets/file_picker_button/file_picker_button.tscn:8
 #: res:///material_maker/windows/node_editor/parameter_boolean.tscn:16
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 #: res:///material_maker/windows/about/about.tscn:91
 msgid "© 2018-2022 Rodolphe Suescun and contributors"
-msgstr "© 2018-2022 Родольф Суэскун и участники"
+msgstr "© 2018-2022 Rodolphe Suescun и участники"
 
 #: res:///material_maker/windows/about/about.tscn:101
 msgid "Authors"
@@ -699,11 +699,11 @@ msgstr "Разработчики"
 
 #: res:///material_maker/windows/about/about.tscn:136
 msgid " Godot Engine"
-msgstr "Godot Engine"
+msgstr " Godot Engine"
 
 #: res:///material_maker/windows/about/about.tscn:145
 msgid "99% of Material Maker's code is the awesome Godot Engine"
-msgstr "99% кода этой программы написано с помощью Godot Engine"
+msgstr "99% кода этой программы создано с помощью Godot Engine"
 
 #: res:///material_maker/windows/about/about.tscn:148
 msgid "Donors"
@@ -719,229 +719,229 @@ msgstr "Лицензия"
 
 #: res:///material_maker/windows/add_node_popup/node_selection_button.tscn:46
 msgid "Node"
-msgstr ""
+msgstr "Узел"
 
 #: res:///material_maker/windows/add_node_popup/node_selection_button.tscn:68
 msgid "path/to/node"
-msgstr ""
+msgstr "путь/к/узлу"
 
 #: res:///material_maker/windows/desc_dialog/desc_dialog.tscn:35
 msgid "Short Description:"
-msgstr ""
+msgstr "Краткое описание:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:80
 #: res:///material_maker/windows/material_editor/material_editor.tscn:170
 #: res:///material_maker/windows/node_editor/enum_editor.tscn:72
 #: res:///material_maker/windows/node_editor/node_editor.tscn:62
 msgid "Name:"
-msgstr ""
+msgstr "Название:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:93
 msgid "HDRI URL:"
-msgstr ""
+msgstr "HDRI URL:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:107
 msgid "Color:"
-msgstr ""
+msgstr "Цвет:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:120
 msgid "Sky Energy:"
-msgstr ""
+msgstr "Энергия неба:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:140
 msgid "Ambient color:"
-msgstr ""
+msgstr "Цвет окружения:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:153
 msgid "Ambient Energy:"
-msgstr ""
+msgstr "Энергия окружения:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:173
 msgid "Sky contribution:"
-msgstr ""
+msgstr "Участие неба:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:192
 msgid "Sun color:"
-msgstr ""
+msgstr "Цвет солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:205
 msgid "Sun Energy:"
-msgstr ""
+msgstr "Сила солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:225
 msgid "Sun Direction:"
-msgstr ""
+msgstr "Направление солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:246
 msgid "Sun Angle:"
-msgstr ""
+msgstr "Угол наклона солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:273
 msgid "Download environment"
-msgstr ""
+msgstr "Загрузить среду"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:279
 msgid "Upload environment"
-msgstr ""
+msgstr "Загрузить среду"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:105
 msgid "Size:"
-msgstr ""
+msgstr "Размер:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:130
 msgid "Begin:"
-msgstr ""
+msgstr "Начало:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:161
 msgid "End:"
-msgstr ""
+msgstr "Конец:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:192
 msgid "Images:"
-msgstr ""
+msgstr "Изображения:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:228
 msgid "PNG files"
-msgstr ""
+msgstr "PNG файлы"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:264
 msgid "First frame"
-msgstr ""
+msgstr "Первый кадр"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:297
 msgid "Animation"
-msgstr ""
+msgstr "Анимация"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:320
 msgid "Difference"
-msgstr ""
+msgstr "Разница"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:348
 msgid "Last frame"
-msgstr ""
+msgstr "Последний кадр"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:378
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 #: res:///material_maker/windows/file_dialog/left_panel.tscn:17
 msgid "Recent"
-msgstr ""
+msgstr "Недавний"
 
 #: res:///material_maker/windows/file_dialog/left_panel.tscn:33
 msgid "Favorite"
-msgstr ""
+msgstr "Избранное"
 
 #: res:///material_maker/windows/line_dialog/line_dialog.tscn:27
 msgid "blah"
-msgstr ""
+msgstr "бла"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:89
 msgid "Export target:"
-msgstr ""
+msgstr "Экспорт цели:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:128
 msgid "Extension:"
-msgstr ""
+msgstr "Расширение:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:182
 msgid "Condition:"
-msgstr ""
+msgstr "Состояние:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:195
 msgid "Type:"
-msgstr ""
+msgstr "Тип:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:203
 msgid "Texture"
-msgstr ""
+msgstr "Текстура"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:211
 msgid "Output:"
-msgstr ""
+msgstr "Вывод:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:62
 msgid "Model:"
-msgstr ""
+msgstr "Модель:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:68
 msgid "Model file"
-msgstr ""
+msgstr "Файл модели"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:75
 msgid "Resolution:"
-msgstr ""
+msgstr "Разрешение:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:90
 msgid "Project:"
-msgstr ""
+msgstr "Проект:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:97
 msgid "Project file"
-msgstr ""
+msgstr "Файл проекта"
 
 #: res:///material_maker/windows/node_editor/enum_editor.tscn:115
 msgid "Value:"
-msgstr ""
+msgstr "Значение:"
 
 #: res:///material_maker/windows/node_editor/input.tscn:57
 #: res:///material_maker/windows/node_editor/parameter.tscn:61
 msgid "name"
-msgstr ""
+msgstr "имя"
 
 #: res:///material_maker/windows/node_editor/input.tscn:65
 #: res:///material_maker/windows/node_editor/parameter.tscn:68
 msgid "Label"
-msgstr ""
+msgstr "Метка"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:45
 #: res:///material_maker/windows/preferences/preferences.tscn:42
 msgid "General"
-msgstr ""
+msgstr "Основные"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:80
 msgid "Parameters:"
-msgstr ""
+msgstr "Параметры:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:107
 msgid "Inputs:"
-msgstr ""
+msgstr "Входы:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:130
 msgid "Outputs"
-msgstr ""
+msgstr "Выводы"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:142
 msgid "Outputs:"
-msgstr ""
+msgstr "Выводы:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:165
 msgid "Main Code"
-msgstr ""
+msgstr "Основной код"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:178
 msgid "Instance Functions"
-msgstr ""
+msgstr "Функции экземпляра"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:191
 msgid "Global Functions"
-msgstr ""
+msgstr "Глобальные функции"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:208
 msgid "Includes:"
-msgstr ""
+msgstr "Включает:"
 
 #: res:///material_maker/windows/node_editor/parameter.tscn:80
 msgid "float"
-msgstr ""
+msgstr "плавающий"
 
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:92
 msgid "Control:"
-msgstr ""
+msgstr "Управление:"
 
 #: res:///material_maker/windows/preferences/bool_option.tscn:8
 msgid "Confirm when quitting the application"
-msgstr ""
+msgstr "Подтверждать при выходе из программы"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:62
 msgid "Language:"
@@ -957,23 +957,23 @@ msgstr "Загрузить"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:100
 msgid "Confirm when closing a project"
-msgstr ""
+msgstr "Подтверждать при закрытии проекта"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:118
 msgid "UI scale (0 = auto):"
-msgstr ""
+msgstr "Масштабирование пользовательского интерфейса (0 = автоматически)"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:144
 msgid "3D preview resolution:"
-msgstr ""
+msgstr "3D предпросмотр разрешения:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:175
 msgid "3D preview tesselation detail:"
-msgstr ""
+msgstr "Детализация тесселяции в 3D предпросмотре:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:202
 msgid "3D preview sun shadow (requires restart)"
-msgstr ""
+msgstr "3D предпросмотр солнечных теней (необходима перезагрузка)"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:215
 msgid "Enable VSync"
@@ -985,44 +985,44 @@ msgstr "Ограничение частоты кадров:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:263
 msgid "Idle FPS limit:"
-msgstr ""
+msgstr "Частота кадров в простое:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:282
 msgid "Bake"
-msgstr ""
+msgstr "Запекание"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:297
 msgid "Ray count:"
-msgstr ""
+msgstr "Количество лучей:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:322
 msgid "Ray length:"
-msgstr ""
+msgstr "Длина луча:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:348
 msgid "Ray bias:"
-msgstr ""
+msgstr "Отклонение лучей:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:373
 msgid "Denoise radius:"
-msgstr ""
+msgstr "Радиус размытия:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:394
 msgid "Graph"
-msgstr ""
+msgstr "Графы"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:404
 msgid "Auto size comment node to selection"
-msgstr ""
+msgstr "Авто-масштабирование узла комментария к выделенному"
 
 #: res:///material_maker/windows/progress_window/progress_window.tscn:38
 msgid "Doing this, doing that"
-msgstr ""
+msgstr "Сделать это, сделать то"
 
 #: res:///material_maker/windows/sdf_builder/preview_3d.tscn:147
 msgid "Gizmo"
-msgstr ""
+msgstr "Гизмо"
 
 #: res:///material_maker/windows/sdf_builder/preview_3d.tscn:154
 msgid "Local"
-msgstr ""
+msgstr "Локальный"
