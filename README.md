@@ -1,57 +1,20 @@
-# Material Maker
+# Русский перевод для Material Maker
 
-This is a tool based on [Godot Engine](https://godotengine.org/) that can
-be used to create textures procedurally and paint 3D models.
+## О репозитории
+Данный форк Material Maker служит для хостинга и работы над файлом русского перевода. Вы можете вносить свой вклад в него (подробнее в пункте "Как сделать вклад в перевод?")
 
-Its user interface is based on Godot's GraphEdit node: textures and brushes are
-described as interconnected nodes.
+## Как сделать вклад в перевод?
+Файлы перевода находятся по следующему пути: material-maker-ru-translation/material_maker/locale/translations
 
-## Download
+### Что уже сделано?
+На данный момент завершен только неполный перевод программы (ru.po), и ведется активная работа над файлом ru-complete.po
 
-- **[Download on itch.io](https://rodzilla.itch.io/material-maker)**
+### Чем переводить?
+Мои основные инструменты для работы: 
+- **Poedit** (специальный редактор для переводов в формате .po и других манипуляций с библиотекой gettext)
+- **Переводчик DeepL** (я использую его, так как он чаще может понимать специализированный контекст и банально местами перевод получше, но вы можете использовать тот, который удобен именно вам)
 
-On Windows, you can also install Material Maker using [Scoop](https://scoop.sh):
+## Авторские права
+- **Разработчики Material Maker:** Rodolphe Suescun и другие внёсшие вклад в развитие программы.
 
-```text
-scoop bucket add extras
-scoop install material-maker
-```
-... or [Chocolatey](https://chocolatey.org/) (default or portable install):
-```text
-choco install material-maker
-```
-```text
-choco install material-maker.portable
-```
-
-Can't wait for next release? Automated builds from master branch are available (use at your own risk):
-
-<a href="https://github.com/RodZill4/material-maker/actions">
-    <img src="https://github.com/RodZill4/material-maker/workflows/dev-desktop-builds/badge.svg" alt="Build Passing" />
-</a>
-
-## Documentation
-
-- **[User manual](https://rodzill4.github.io/material-maker/doc/)**
-
-## Translations
-
-Translation files can be installed using the **Install** button in the **Preferences** dialog.
-
-- [Chinese translation](https://raw.githubusercontent.com/RodZill4/material-maker/f1be50b21a0f4991ac39e12a5362f5c5eb4c83a0/material_maker/locale/translations/zh.csv) (Created by **free_king**)
-
-## Community
-
-- **[Discord server](https://discord.gg/PF5V3mFwFM)**
-- **[Material Maker subreddit](https://www.reddit.com/r/MaterialMaker/)**
-
-## Screenshot
-
-![Screenshot](material_maker/doc/images/screenshot.png)
-
-## License
-
-Copyright (c) 2018-2021 Rodolphe Suescun and contributors
-
-Unless otherwise specified, files in this repository are licensed under the
-MIT license. See [LICENSE.md](LICENSE.md) for more information.
+- **Оригинальный мейнтейнер русского перевода:** Lydex
