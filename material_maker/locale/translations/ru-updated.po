@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: rodzilla@free.fr\n"
 "POT-Creation-Date: 2022-06-26 07:49\n"
-"PO-Revision-Date: 2024-11-29 00:03+0300\n"
+"PO-Revision-Date: 2024-11-30 20:44+0300\n"
 "Last-Translator: Lydex <goodgamermatvey@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -867,11 +867,11 @@ msgstr "Модель"
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res://material_maker/library/base.json
 msgid "Select"
-msgstr ""
+msgstr "Выделение"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Configure"
-msgstr ""
+msgstr "Настроить"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res://addons/material_maker/nodes/fill_to_gradient.mmg
@@ -885,99 +885,99 @@ msgstr ""
 #: res://addons/material_maker/nodes/transform2.mmg
 #: res://material_maker/library/base.json
 msgid "Rotate"
-msgstr ""
+msgstr "Вращение"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Off"
-msgstr ""
+msgstr "Выключить"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Slow"
-msgstr ""
+msgstr "Медленно"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Medium"
-msgstr ""
+msgstr "Средне"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res://material_maker/library/base.json
 msgid "Fast"
-msgstr ""
+msgstr "Быстро"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Generate map"
-msgstr ""
+msgstr "Сгенерировать карту"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Mesh normal"
-msgstr ""
+msgstr "Сетка нормалей"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Inverse UV"
-msgstr ""
+msgstr "Обратный UV"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res://addons/material_maker/nodes/smooth_curvature2.mmg
 msgid "Curvature"
-msgstr ""
+msgstr "Кривизна"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 msgid "Ambient Occlusion"
-msgstr ""
+msgstr "АО"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res://addons/material_maker/nodes/seven_segment.mmg
 msgid "Thickness"
-msgstr ""
+msgstr "Толщина"
 
 #: Menu in res:///material_maker/panels/preview_3d/preview_3d.gd
 #: res:///material_maker/panels/preview_3d/preview_3d_ui.tscn:33
 msgid "Environment"
-msgstr ""
+msgstr "Среда"
 
 #: res:///material_maker/panels/preview_3d/thumbnails/generation/gen_thumbs_meshes.tscn:77
 msgid "Custom"
-msgstr ""
+msgstr "Пользоавтельский"
 
 #: res:///material_maker/tools/painter/painter.gd:444
 msgid "View to texture"
-msgstr ""
+msgstr "Вид на текстуру"
 
 #: res:///material_maker/tools/painter/painter.gd:445
 msgid "Texture to view"
-msgstr ""
+msgstr "С текстуры на вид"
 
 #: res:///material_maker/tools/painter/painter.gd:446
 msgid "Seams"
-msgstr ""
+msgstr "Швы"
 
 #: res:///material_maker/tools/painter/painter.gd:447
 msgid "Albedo (current layer)"
-msgstr ""
+msgstr "Альбедо (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:448
 msgid "Metallic/Roughness (current layer)"
-msgstr ""
+msgstr "Металличность/Шероховатость (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:449
 msgid "Emission (current layer)"
-msgstr ""
+msgstr "Излучение (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:450
 msgid "Normal (current layer)"
-msgstr ""
+msgstr "Нормали (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:451
 msgid "Depth/Occlusion (current layer)"
-msgstr ""
+msgstr "Глубина/Окклюзия (текущий слой)"
 
 #: res:///material_maker/tools/painter/painter.gd:452
 msgid "Mask (current layer)"
-msgstr ""
+msgstr "Маска (текущий слой)"
 
 #: res:///material_maker/widgets/curve_edit/curve_dialog.tscn:67
 msgid "Presets"
-msgstr ""
+msgstr "Предустановки"
 
 #: res:///material_maker/widgets/curve_edit/curve_dialog.tscn:77
 #: res://addons/material_maker/nodes/fill_to_orientation.mmg
@@ -986,178 +986,178 @@ msgstr ""
 #: res://addons/material_maker/nodes/tones_step.mmg
 #: res://material_maker/library/base.json
 msgid "Invert"
-msgstr ""
+msgstr "Инвертирование"
 
 #: res:///material_maker/widgets/file_picker_button/file_picker_button.tscn:8
 #: res:///material_maker/windows/node_editor/parameter_boolean.tscn:16
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 #: res:///material_maker/windows/about/about.tscn:91
 msgid "© 2018-2022 Rodolphe Suescun and contributors"
-msgstr ""
+msgstr "© 2018-2022 Rodolphe Suescun и участники"
 
 #: res:///material_maker/windows/about/about.tscn:101
 msgid "Authors"
-msgstr ""
+msgstr "Разработчики"
 
 #: res:///material_maker/windows/about/about.tscn:136
 msgid " Godot Engine"
-msgstr ""
+msgstr " Godot Engine"
 
 #: res:///material_maker/windows/about/about.tscn:145
 msgid "99% of Material Maker's code is the awesome Godot Engine"
-msgstr ""
+msgstr "99% кода этой программы создано с помощью Godot Engine"
 
 #: res:///material_maker/windows/about/about.tscn:148
 msgid "Donors"
-msgstr ""
+msgstr "Доноры"
 
 #: res:///material_maker/windows/about/about.tscn:206
 msgid "Sponsors"
-msgstr ""
+msgstr "Спонсоры"
 
 #: res:///material_maker/windows/about/about.tscn:218
 msgid "License"
-msgstr ""
+msgstr "Лицензия"
 
 #: res:///material_maker/windows/add_node_popup/node_selection_button.tscn:46
 msgid "Node"
-msgstr ""
+msgstr "Узел"
 
 #: res:///material_maker/windows/add_node_popup/node_selection_button.tscn:68
 msgid "path/to/node"
-msgstr ""
+msgstr "путь/к/узлу"
 
 #: res:///material_maker/windows/desc_dialog/desc_dialog.tscn:35
 msgid "Short Description:"
-msgstr ""
+msgstr "Краткое описание:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:80
 #: res:///material_maker/windows/material_editor/material_editor.tscn:170
 #: res:///material_maker/windows/node_editor/enum_editor.tscn:72
 #: res:///material_maker/windows/node_editor/node_editor.tscn:62
 msgid "Name:"
-msgstr ""
+msgstr "Название:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:93
 msgid "HDRI URL:"
-msgstr ""
+msgstr "Ссылка на HDRI:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:107
 msgid "Color:"
-msgstr ""
+msgstr "Цвет:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:120
 msgid "Sky Energy:"
-msgstr ""
+msgstr "Яркость неба:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:140
 msgid "Ambient color:"
-msgstr ""
+msgstr "Цвет окружения:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:153
 msgid "Ambient Energy:"
-msgstr ""
+msgstr "Энергия окружения:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:173
 msgid "Sky contribution:"
-msgstr ""
+msgstr "Влияние неба:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:192
 msgid "Sun color:"
-msgstr ""
+msgstr "Цвет солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:205
 msgid "Sun Energy:"
-msgstr ""
+msgstr "Яркость солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:225
 msgid "Sun Direction:"
-msgstr ""
+msgstr "Направление солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:246
 msgid "Sun Angle:"
-msgstr ""
+msgstr "Угол наклона солнца:"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:273
 msgid "Download environment"
-msgstr ""
+msgstr "Скачать среду"
 
 #: res:///material_maker/windows/environment_editor/environment_editor.tscn:279
 msgid "Upload environment"
-msgstr ""
+msgstr "Загрузить среду"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:105
 msgid "Size:"
-msgstr ""
+msgstr "Размер:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:130
 msgid "Begin:"
-msgstr ""
+msgstr "Начало:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:161
 msgid "End:"
-msgstr ""
+msgstr "Конец:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:192
 msgid "Images:"
-msgstr ""
+msgstr "Изображения:"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:228
 msgid "PNG files"
-msgstr ""
+msgstr "PNG файлы"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:264
 msgid "First frame"
-msgstr ""
+msgstr "Первый кадр"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:297
 msgid "Animation"
-msgstr ""
+msgstr "Анимация"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:320
 #: res://addons/material_maker/nodes/blend.mmg
 #: res://addons/material_maker/nodes/tex3d_blend.mmg
 msgid "Difference"
-msgstr ""
+msgstr "Разница"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:348
 msgid "Last frame"
-msgstr ""
+msgstr "Последний кадр"
 
 #: res:///material_maker/windows/export_animation/export_animation.tscn:378
 #: res://material_maker/library/base.json
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 #: res:///material_maker/windows/file_dialog/left_panel.tscn:17
 msgid "Recent"
-msgstr ""
+msgstr "Недавний"
 
 #: res:///material_maker/windows/file_dialog/left_panel.tscn:33
 msgid "Favorite"
-msgstr ""
+msgstr "Избранное"
 
 #: res:///material_maker/windows/line_dialog/line_dialog.tscn:27
 msgid "blah"
-msgstr ""
+msgstr "бла"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:89
 msgid "Export target:"
-msgstr ""
+msgstr "Экспорт цели:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:128
 msgid "Extension:"
-msgstr ""
+msgstr "Расширение:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:182
 msgid "Condition:"
-msgstr ""
+msgstr "Состояние:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:195
 msgid "Type:"
-msgstr ""
+msgstr "Тип:"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:203
 #: res://addons/material_maker/nodes/tex3d_apply.mmg
@@ -1165,207 +1165,207 @@ msgstr ""
 #: res://addons/material_maker/nodes/tex3d_apply_invuvmap.mmg
 #: res://material_maker/library/base.json
 msgid "Texture"
-msgstr ""
+msgstr "Текстура"
 
 #: res:///material_maker/windows/material_editor/material_editor.tscn:211
 msgid "Output:"
-msgstr ""
+msgstr "Вывод:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:62
 msgid "Model:"
-msgstr ""
+msgstr "Модель:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:68
 msgid "Model file"
-msgstr ""
+msgstr "Файл модели"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:75
 msgid "Resolution:"
-msgstr ""
+msgstr "Разрешение:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:90
 msgid "Project:"
-msgstr ""
+msgstr "Проект:"
 
 #: res:///material_maker/windows/new_painter/new_painter.tscn:97
 msgid "Project file"
-msgstr ""
+msgstr "Файл проекта"
 
 #: res:///material_maker/windows/node_editor/enum_editor.tscn:115
 msgid "Value:"
-msgstr ""
+msgstr "Значение:"
 
 #: res:///material_maker/windows/node_editor/input.tscn:57
 #: res:///material_maker/windows/node_editor/parameter.tscn:61
 msgid "name"
-msgstr ""
+msgstr "имя"
 
 #: res:///material_maker/windows/node_editor/input.tscn:65
 #: res:///material_maker/windows/node_editor/parameter.tscn:68
 msgid "Label"
-msgstr ""
+msgstr "Метка"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:45
 #: res:///material_maker/windows/preferences/preferences.tscn:42
 msgid "General"
-msgstr ""
+msgstr "Основные"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:80
 msgid "Parameters:"
-msgstr ""
+msgstr "Параметры:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:107
 msgid "Inputs:"
-msgstr ""
+msgstr "Входы:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:130
 msgid "Outputs"
-msgstr ""
+msgstr "Выводы"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:142
 msgid "Outputs:"
-msgstr ""
+msgstr "Выводы:"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:165
 msgid "Main Code"
-msgstr ""
+msgstr "Основной код"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:178
 msgid "Instance Functions"
-msgstr ""
+msgstr "Функции экземпляра"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:191
 msgid "Global Functions"
-msgstr ""
+msgstr "Глобальные функции"
 
 #: res:///material_maker/windows/node_editor/node_editor.tscn:208
 msgid "Includes:"
-msgstr ""
+msgstr "Включает:"
 
 #: res:///material_maker/windows/node_editor/parameter.tscn:80
 msgid "float"
-msgstr ""
+msgstr "плавающий"
 
 #: res:///material_maker/windows/node_editor/parameter_float.tscn:92
 msgid "Control:"
-msgstr ""
+msgstr "Управление:"
 
 #: res:///material_maker/windows/preferences/bool_option.tscn:8
 msgid "Confirm when quitting the application"
-msgstr ""
+msgstr "Подтверждать при выходе из программы"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:62
 msgid "Language:"
-msgstr ""
+msgstr "Язык:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:76
 msgid "Install"
-msgstr ""
+msgstr "Установить"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:82
 msgid "Download"
-msgstr ""
+msgstr "Загрузить"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:100
 msgid "Confirm when closing a project"
-msgstr ""
+msgstr "Подтверждать при закрытии проекта"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:118
 msgid "UI scale (0 = auto):"
-msgstr ""
+msgstr "Масштабирование пользовательского интерфейса (0 = автоматически)"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:144
 msgid "3D preview resolution:"
-msgstr ""
+msgstr "3D предпросмотр разрешения:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:175
 msgid "3D preview tesselation detail:"
-msgstr ""
+msgstr "Детализация тесселяции в 3D предпросмотре:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:202
 msgid "3D preview sun shadow (requires restart)"
-msgstr ""
+msgstr "3D предпросмотр солнечных теней (необходима перезагрузка)"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:215
 msgid "Enable VSync"
-msgstr ""
+msgstr "Включить вертикальную синхронизацию"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:230
 msgid "FPS limit:"
-msgstr ""
+msgstr "Ограничение частоты кадров:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:263
 msgid "Idle FPS limit:"
-msgstr ""
+msgstr "Частота кадров в простое:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:282
 msgid "Bake"
-msgstr ""
+msgstr "Запекание"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:297
 msgid "Ray count:"
-msgstr ""
+msgstr "Количество лучей:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:322
 msgid "Ray length:"
-msgstr ""
+msgstr "Длина луча:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:348
 msgid "Ray bias:"
-msgstr ""
+msgstr "Отклонение лучей:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:373
 msgid "Denoise radius:"
-msgstr ""
+msgstr "Радиус размытия:"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:394
 msgid "Graph"
-msgstr ""
+msgstr "Графы"
 
 #: res:///material_maker/windows/preferences/preferences.tscn:404
 msgid "Auto size comment node to selection"
-msgstr ""
+msgstr "Авто-масштабирование узла комментария к выделенному"
 
 #: res:///material_maker/windows/progress_window/progress_window.tscn:38
 msgid "Doing this, doing that"
-msgstr ""
+msgstr "Сделать это, сделать то"
 
 #: res:///material_maker/windows/sdf_builder/preview_3d.tscn:147
 msgid "Gizmo"
-msgstr ""
+msgstr "Гизмо"
 
 #: res:///material_maker/windows/sdf_builder/preview_3d.tscn:154
 msgid "Local"
-msgstr ""
+msgstr "Локальный"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 #: res://material_maker/library/base.json
 msgid "AdjustHSV"
-msgstr ""
+msgstr "РегулировкаHSV"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "Adjust HSV"
-msgstr ""
+msgstr "Регулировка HSV"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "Adjusts the Hue, Saturation and Value of its input"
-msgstr ""
+msgstr "Регулирует оттенок, насыщенность и значения входного сигнала"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "Hue"
-msgstr ""
+msgstr "Оттенок"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "The Hue adjustment"
-msgstr ""
+msgstr "Регулировка оттенка"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "Saturation"
-msgstr ""
+msgstr "Насыщенность"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "The Saturation adjustment"
-msgstr ""
+msgstr "Регулировка насыщенности"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 #: res://addons/material_maker/nodes/fbm.mmg
@@ -1378,11 +1378,11 @@ msgstr ""
 #: res://addons/material_maker/nodes/uniform_greyscale.mmg
 #: res://material_maker/library/base.json
 msgid "Value"
-msgstr ""
+msgstr "Значение"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 msgid "The Value adjustment"
-msgstr ""
+msgstr "Регулировка значения"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 #: res://addons/material_maker/nodes/auto_tones.mmg
@@ -1497,7 +1497,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation2_nobuf.mmg
 #: res://addons/material_maker/nodes/warp_dilation_nobuf.mmg
 msgid "Input"
-msgstr ""
+msgstr "Ввод"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 #: res://addons/material_maker/nodes/auto_tones.mmg
@@ -1536,25 +1536,26 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation2_nobuf.mmg
 #: res://addons/material_maker/nodes/warp_dilation_nobuf.mmg
 msgid "The input image"
-msgstr ""
+msgstr "Исходное изображение"
 
 #: res://addons/material_maker/nodes/adjust_hsv.mmg
 #: res://addons/material_maker/nodes/normal_map_convert.mmg
 msgid "Shows the image with adjusted Hue, Saturation and Value"
 msgstr ""
+"Показывает изображение с настроенными оттенком, насыщенностью и значением"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Arc pavement"
-msgstr ""
+msgstr "Дуговой тротуар"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/shape.mmg
 msgid "Draws a white shape on a black background"
-msgstr ""
+msgstr "Рисует белую фигуру на черном фоне"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Repeat:"
-msgstr ""
+msgstr "Повтор:"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1574,18 +1575,18 @@ msgstr ""
 #: res://addons/material_maker/nodes/transform2.mmg
 #: res://material_maker/library/base.json
 msgid "Repeat"
-msgstr ""
+msgstr "Повтор"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
 #: res://addons/material_maker/nodes/bricks2.mmg
 #: res://addons/material_maker/nodes/bricks_nontileable.mmg
 msgid "The number of repetitions of the whole pattern"
-msgstr ""
+msgstr "Число повторений всего узора"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Rows:"
-msgstr ""
+msgstr "Ряды:"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1594,30 +1595,30 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 #: res://addons/material_maker/nodes/pixelize.mmg
 msgid "Rows"
-msgstr ""
+msgstr "Ряды"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "The number of rows"
-msgstr ""
+msgstr "Количество рядов"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Bricks:"
-msgstr ""
+msgstr "Блоки:"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
 #: res://addons/material_maker/nodes/bricks2.mmg
 #: res://material_maker/library/base.json
 msgid "Bricks"
-msgstr ""
+msgstr "Блоки"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "The number of bricks per row"
-msgstr ""
+msgstr "Количество блоков в ряд"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Mortar:"
-msgstr ""
+msgstr "Раствор:"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1627,7 +1628,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven2.mmg
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 msgid "Mortar"
-msgstr ""
+msgstr "Раствор"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1637,11 +1638,11 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven2.mmg
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 msgid "The width of the space between bricks"
-msgstr ""
+msgstr "Ширина промежутка между блоками"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 msgid "Bevel:"
-msgstr ""
+msgstr "Фаска:"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bevel.mmg
@@ -1656,7 +1657,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/seven_segment.mmg
 #: res://material_maker/library/base.json
 msgid "Bevel"
-msgstr ""
+msgstr "Фаска"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1666,7 +1667,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven2.mmg
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 msgid "The width of the edge of each brick"
-msgstr ""
+msgstr "Ширина грани каждого блока"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1676,7 +1677,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven2.mmg
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 msgid "Bricks pattern"
-msgstr ""
+msgstr "Паттерн блоков"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1686,7 +1687,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/bricks_uneven2.mmg
 #: res://addons/material_maker/nodes/bricks_uneven3.mmg
 msgid "A greyscale image that shows the bricks pattern"
-msgstr ""
+msgstr "Изображение в оттенках серого, показывающее паттерн блоков"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/beehive.mmg
@@ -1696,21 +1697,21 @@ msgstr ""
 #: res://addons/material_maker/nodes/tex3d_voronoi.mmg
 #: res://addons/material_maker/nodes/voronoi.mmg
 msgid "Random color"
-msgstr ""
+msgstr "Случайный цвет"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
 #: res://addons/material_maker/nodes/bricks_nontileable.mmg
 #: res://addons/material_maker/nodes/bricks_uneven.mmg
 msgid "A random color for each brick"
-msgstr ""
+msgstr "Случайный цвет для каждого блока"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
 #: res://addons/material_maker/nodes/bricks_nontileable.mmg
 #: res://addons/material_maker/nodes/bricks_uneven.mmg
 msgid "Brick UV"
-msgstr ""
+msgstr "UV развертка блока"
 
 #: res://addons/material_maker/nodes/arc_pavement.mmg
 #: res://addons/material_maker/nodes/bricks.mmg
@@ -1720,17 +1721,21 @@ msgid ""
 "An UV map output for each brick, to be connected to the Map input of a "
 "CustomUV node"
 msgstr ""
+"Вывод UV-карты для каждого кирпича, подключаемый ко входу карты узла "
+"ПользовательскийUV"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 #: res://material_maker/library/base.json
 msgid "Auto Tones"
-msgstr ""
+msgstr "Автоматические тона"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 msgid ""
 "Finds the minimum and maximum values in the input texture and tone maps it "
 "to the full 0.0 - 1.0 range."
 msgstr ""
+"Находит минимальное и максимальное значения во входной текстуре и тонирует "
+"их в полный диапазон 0.0 - 1.0."
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 #: res://addons/material_maker/nodes/brightness_contrast.mmg
@@ -1835,7 +1840,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation2_nobuf.mmg
 #: res://addons/material_maker/nodes/warp_dilation_nobuf.mmg
 msgid "in"
-msgstr ""
+msgstr "входящее"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 #: res://addons/material_maker/nodes/bevel.mmg
@@ -1843,12 +1848,12 @@ msgstr ""
 #: res://addons/material_maker/nodes/crystal.mmg
 #: res://addons/material_maker/nodes/dilate.mmg
 msgid "out"
-msgstr ""
+msgstr "выходящее"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 #: res://addons/material_maker/nodes/tones_map.mmg
 msgid "Shows the generated remapped image"
-msgstr ""
+msgstr "Показывает сгенерированное переназначенное изображение"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 #: res://addons/material_maker/nodes/crystal.mmg
@@ -1872,7 +1877,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/smooth_curvature2.mmg
 #: res://addons/material_maker/nodes/warp_dilation2.mmg
 msgid "param0"
-msgstr ""
+msgstr "параметр0"
 
 #: res://addons/material_maker/nodes/auto_tones.mmg
 msgid ""
@@ -1882,19 +1887,25 @@ msgid ""
 "\n"
 "Note: The output itself will not be buffered."
 msgstr ""
+"Буферы используются для определения минимальных и максимальных значений "
+"входного изображения. Если входные данные содержат мелкие детали, может "
+"потребоваться буфер с более высоким разрешением для получения точных "
+"минимальных и максимальных значений.\n"
+"\n"
+"Примечание: сами выходные данные буферизоваться не будут."
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://material_maker/library/base.json
 msgid "Beehive"
-msgstr ""
+msgstr "Улей"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid "Hexagonal tiles pattern"
-msgstr ""
+msgstr "Паттерн из шестиугольных плиток"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid "Draws a greyscale hexagonal tiles pattern"
-msgstr ""
+msgstr "Рисует узор из шестиугольных плиток в оттенках серого"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/box.mmg
@@ -1905,7 +1916,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "Size X"
-msgstr ""
+msgstr "Размер по X"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/box.mmg
@@ -1916,13 +1927,13 @@ msgstr ""
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "Size.x"
-msgstr ""
+msgstr "Размер.x"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "The number of columns of the pattern"
-msgstr ""
+msgstr "Количество столбцов паттерна"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/box.mmg
@@ -1933,7 +1944,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "Size Y"
-msgstr ""
+msgstr "Размер по Y"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/box.mmg
@@ -1944,34 +1955,36 @@ msgstr ""
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "Size.y"
-msgstr ""
+msgstr "Размер.y"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 #: res://addons/material_maker/nodes/weave.mmg
 #: res://addons/material_maker/nodes/weave2.mmg
 msgid "The number of rows of the pattern"
-msgstr ""
+msgstr "Количество рядов паттерна"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid "Shows the greyscale pattern"
-msgstr ""
+msgstr "Показывает патерн в оттенках серого"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid "Shows a random color for each hexagonal tile"
-msgstr ""
+msgstr "Показывает случайный цвет для каждой шестиугольной плитки"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid "UV map"
-msgstr ""
+msgstr "UV развертка"
 
 #: res://addons/material_maker/nodes/beehive.mmg
 msgid ""
 "Shows an UV map to be connected to the UV map port of the Custom UV node"
 msgstr ""
+"Показывает UV-развёртку, которая должна быть подключена к порту UV-карты "
+"узла Пользовательский UV"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "Adds an edge bevel to the input mask based on a customizable curve"
-msgstr ""
+msgstr "Добавляет скос кромки к маске ввода на основе настраиваемой кривой"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/directional_blur.mmg
@@ -1989,7 +2002,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation.mmg
 #: res://addons/material_maker/nodes/warp_dilation2.mmg
 msgid "port0"
-msgstr ""
+msgstr "порт0"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/blend.mmg
@@ -2006,21 +2019,21 @@ msgstr ""
 #: res://addons/material_maker/nodes/tiler_advanced_color.mmg
 #: res://addons/material_maker/nodes/tiler_color.mmg
 msgid "Mask"
-msgstr ""
+msgstr "Маска"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "The input mask whose white areas will be beveled"
-msgstr ""
+msgstr "Вводные данные маски, белые области которой будут скошены"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "Shows the beveled image"
-msgstr ""
+msgstr "Показывает изображение с фаской"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 #: res://addons/material_maker/nodes/normal_map2.mmg
 msgid "size"
-msgstr ""
+msgstr "размер"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/binary_smooth.mmg
@@ -2034,18 +2047,18 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation2_nobuf.mmg
 #: res://addons/material_maker/nodes/warp_dilation_nobuf.mmg
 msgid "Resolution"
-msgstr ""
+msgstr "Разрешение"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "The resolution of the generated texture"
-msgstr ""
+msgstr "Разрешение сгенерированной текстуры"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/material_raymarching.mmg
 #: res://addons/material_maker/nodes/morphology2.mmg
 #: res://addons/material_maker/nodes/sdf3d_fbm.mmg
 msgid "distance"
-msgstr ""
+msgstr "расстояние"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/material_raymarching.mmg
@@ -2054,29 +2067,29 @@ msgstr ""
 #: res://addons/material_maker/nodes/warp_dilation2_nobuf.mmg
 #: res://addons/material_maker/nodes/warp_dilation_nobuf.mmg
 msgid "Distance"
-msgstr ""
+msgstr "Расстояние"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "The distance of the bevel effect"
-msgstr ""
+msgstr "Расстояние действия эффекта фаски"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 msgid "bevel"
-msgstr ""
+msgstr "фаска"
 
 #: res://addons/material_maker/nodes/bevel.mmg
 msgid "The profile of the bevel"
-msgstr ""
+msgstr "Профиль фаски"
 
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 #: res://material_maker/library/base.json
 msgid "Binary Smooth"
-msgstr ""
+msgstr "Двоичное сглаживание"
 
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 msgid "Smoothes the outline of a mask"
-msgstr ""
+msgstr "Сглаживает контуры маски"
 
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 #: res://addons/material_maker/nodes/fill_to_size.mmg
@@ -2095,7 +2108,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/tex3d_apply.mmg
 #: res://addons/material_maker/nodes/tex3d_apply2.mmg
 msgid "Height"
-msgstr ""
+msgstr "Высота"
 
 #: res://addons/material_maker/nodes/binary_smooth.mmg
 msgid "Shows the generate smoothed mask"
@@ -3435,14 +3448,14 @@ msgstr ""
 #: res://addons/material_maker/nodes/noise_color.mmg
 #: res://addons/material_maker/nodes/noise_white.mmg
 msgid "Grid Size"
-msgstr ""
+msgstr "Размер сетки"
 
 #: res://addons/material_maker/nodes/color_noise.mmg
 #: res://addons/material_maker/nodes/noise.mmg
 #: res://addons/material_maker/nodes/noise_color.mmg
 #: res://addons/material_maker/nodes/noise_white.mmg
 msgid "The grid size"
-msgstr ""
+msgstr "Размер сетки"
 
 #: res://addons/material_maker/nodes/color_noise.mmg
 #: res://addons/material_maker/nodes/noise.mmg
@@ -3454,7 +3467,7 @@ msgstr ""
 #: res://addons/material_maker/nodes/colorize.mmg
 #: res://material_maker/library/base.json
 msgid "Colorize"
-msgstr ""
+msgstr "Раскраска"
 
 #: res://addons/material_maker/nodes/colorize.mmg
 msgid "Remaps a greyscale image to a custom gradient"
@@ -9566,7 +9579,7 @@ msgstr ""
 
 #: res://addons/material_maker/nodes/warp_dilation2.mmg
 msgid "angle"
-msgstr ""
+msgstr "угол"
 
 #: res://addons/material_maker/nodes/warp_dilation2.mmg
 msgid "The angle from the slope to be followed"
@@ -9751,12 +9764,12 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "Image"
-msgstr ""
+msgstr "Изображение"
 
 #: res://material_maker/library/base.json
 #: res://material_maker/library/base_brushes.json
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 #: res://material_maker/library/base.json
 msgid "Circular"
@@ -9792,7 +9805,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "From2D"
-msgstr ""
+msgstr "Из 2D"
 
 #: res://material_maker/library/base.json
 msgid "Generic"
@@ -9836,15 +9849,15 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "White"
-msgstr ""
+msgstr "Белый"
 
 #: res://material_maker/library/base.json
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 #: res://material_maker/library/base.json
 msgid "BrightnessContrast"
-msgstr ""
+msgstr "ЯркостьКонтрастность"
 
 #: res://material_maker/library/base.json
 msgid "Tones"
@@ -9852,7 +9865,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "Rainbow"
-msgstr ""
+msgstr "Радуга"
 
 #: res://material_maker/library/base.json
 msgid "SwapChannels"
@@ -9861,7 +9874,7 @@ msgstr ""
 #: res://material_maker/library/base.json
 #: res://material_maker/library/base_brushes.json
 msgid "Blur"
-msgstr ""
+msgstr "Размытие"
 
 #: res://material_maker/library/base.json
 msgid "Directional"
@@ -9873,23 +9886,23 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "To Position"
-msgstr ""
+msgstr "В расположение"
 
 #: res://material_maker/library/base.json
 msgid "To Size"
-msgstr ""
+msgstr "В размер"
 
 #: res://material_maker/library/base.json
 msgid "To Color"
-msgstr ""
+msgstr "В цвет"
 
 #: res://material_maker/library/base.json
 msgid "To random grey"
-msgstr ""
+msgstr "В случайный серый"
 
 #: res://material_maker/library/base.json
 msgid "To random color"
-msgstr ""
+msgstr "В случайный цвет"
 
 #: res://material_maker/library/base.json
 msgid "To UV"
@@ -9901,7 +9914,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "CustomUV"
-msgstr ""
+msgstr "Пользовательская развёртка"
 
 #: res://material_maker/library/base.json
 msgid "CircleSplatter"
@@ -9996,7 +10009,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "Debug"
-msgstr ""
+msgstr "Отладка"
 
 #: res://material_maker/library/base.json
 msgid "Advanced"
@@ -10032,7 +10045,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "Vec3"
-msgstr ""
+msgstr "Вектор3"
 
 #: res://material_maker/library/base.json
 msgid "SDF2D"
@@ -10072,7 +10085,7 @@ msgstr ""
 
 #: res://material_maker/library/base.json
 msgid "To Gradient"
-msgstr ""
+msgstr "В градиент"
 
 #: res://material_maker/library/base.json
 msgid "Pack"
@@ -10092,7 +10105,7 @@ msgstr ""
 
 #: res://material_maker/library/base_brushes.json
 msgid "Effect"
-msgstr ""
+msgstr "Эффект"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Dribble"
@@ -10104,15 +10117,15 @@ msgstr ""
 
 #: res://material_maker/library/base_brushes.json
 msgid "Material"
-msgstr ""
+msgstr "Материал"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Snow"
-msgstr ""
+msgstr "Снег"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Rust"
-msgstr ""
+msgstr "Ржавчина"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Camouflage"
@@ -10132,16 +10145,16 @@ msgstr ""
 
 #: res://material_maker/library/base_brushes.json
 msgid "Mosaic"
-msgstr ""
+msgstr "Мозаика"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Leaves"
-msgstr ""
+msgstr "Листья"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Stamp"
-msgstr ""
+msgstr "Штамп"
 
 #: res://material_maker/library/base_brushes.json
 msgid "Leather"
-msgstr ""
+msgstr "Кожа"
